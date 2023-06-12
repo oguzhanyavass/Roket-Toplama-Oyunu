@@ -1,0 +1,34 @@
+C:\Users\emirh\Desktop\SancarRocket\SancarRocket\bin\Debug\Game.Library.dll
+C:\Users\emirh\Desktop\SancarRocket\SancarRocket\bin\Debug\Game.Library.pdb
+C:\Users\emirh\Desktop\SancarRocket\SancarRocket\obj\Debug\Sancar.csproj.AssemblyReference.cache
+C:\Users\emirh\Desktop\SancarRocket\SancarRocket\obj\Debug\Sancar.csproj.SuggestedBindingRedirects.cache
+C:\Users\emirh\Desktop\SancarRocket\SancarRocket\obj\Debug\Sancar.csproj.GenerateResource.cache
+C:\Users\emirh\Desktop\SancarRocket\SancarRocket\obj\Debug\Sancar.csproj.CoreCompileInputs.cache
+C:\Users\emirh\Desktop\SancarRocket\SancarRocket\obj\Debug\Sancar.csproj.CopyComplete
+C:\Users\emirh\Desktop\SancarRocket\SancarRocket\bin\Debug\SancarRoket.exe.config
+C:\Users\emirh\Desktop\SancarRocket\SancarRocket\bin\Debug\SancarRoket.exe
+C:\Users\emirh\Desktop\SancarRocket\SancarRocket\bin\Debug\SancarRoket.pdb
+C:\Users\emirh\Desktop\SancarRocket\SancarRocket\obj\Debug\SancarRoket.Properties.Resources.resources
+C:\Users\emirh\Desktop\SancarRocket\SancarRocket\obj\Debug\SancarRoket.exe
+C:\Users\emirh\Desktop\SancarRocket\SancarRocket\obj\Debug\SancarRoket.pdb
+C:\Users\emirh\Desktop\SancarRocket\SancarRocket\bin\Debug\Siralama.exe
+C:\Users\emirh\Desktop\SancarRocket\SancarRocket\bin\Debug\Siralama.pdb
+C:\Users\emirh\Desktop\SancarRocket\SancarRocket\bin\Debug\Siralama.exe.config
+C:\Users\emirh\Desktop\SancarRocket\SancarRocket\obj\Debug\Sancar.AnaForm.resources
+C:\Users\oguzh\OneDrive\Desktop\NDP Proje\B211200041_OguzhanYavas_NDP\SancarRocket\SancarRocket\bin\Debug\SancarRoket.exe.config
+C:\Users\oguzh\OneDrive\Desktop\NDP Proje\B211200041_OguzhanYavas_NDP\SancarRocket\SancarRocket\bin\Debug\SancarRoket.exe
+C:\Users\oguzh\OneDrive\Desktop\NDP Proje\B211200041_OguzhanYavas_NDP\SancarRocket\SancarRocket\bin\Debug\SancarRoket.pdb
+C:\Users\oguzh\OneDrive\Desktop\NDP Proje\B211200041_OguzhanYavas_NDP\SancarRocket\SancarRocket\bin\Debug\Game.Library.dll
+C:\Users\oguzh\OneDrive\Desktop\NDP Proje\B211200041_OguzhanYavas_NDP\SancarRocket\SancarRocket\bin\Debug\Siralama.exe
+C:\Users\oguzh\OneDrive\Desktop\NDP Proje\B211200041_OguzhanYavas_NDP\SancarRocket\SancarRocket\bin\Debug\Game.Library.pdb
+C:\Users\oguzh\OneDrive\Desktop\NDP Proje\B211200041_OguzhanYavas_NDP\SancarRocket\SancarRocket\bin\Debug\Siralama.pdb
+C:\Users\oguzh\OneDrive\Desktop\NDP Proje\B211200041_OguzhanYavas_NDP\SancarRocket\SancarRocket\bin\Debug\Siralama.exe.config
+C:\Users\oguzh\OneDrive\Desktop\NDP Proje\B211200041_OguzhanYavas_NDP\SancarRocket\SancarRocket\obj\Debug\Sancar.csproj.AssemblyReference.cache
+C:\Users\oguzh\OneDrive\Desktop\NDP Proje\B211200041_OguzhanYavas_NDP\SancarRocket\SancarRocket\obj\Debug\Sancar.csproj.SuggestedBindingRedirects.cache
+C:\Users\oguzh\OneDrive\Desktop\NDP Proje\B211200041_OguzhanYavas_NDP\SancarRocket\SancarRocket\obj\Debug\Sancar.AnaForm.resources
+C:\Users\oguzh\OneDrive\Desktop\NDP Proje\B211200041_OguzhanYavas_NDP\SancarRocket\SancarRocket\obj\Debug\SancarRoket.Properties.Resources.resources
+C:\Users\oguzh\OneDrive\Desktop\NDP Proje\B211200041_OguzhanYavas_NDP\SancarRocket\SancarRocket\obj\Debug\Sancar.csproj.GenerateResource.cache
+C:\Users\oguzh\OneDrive\Desktop\NDP Proje\B211200041_OguzhanYavas_NDP\SancarRocket\SancarRocket\obj\Debug\Sancar.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\OneDrive\Desktop\NDP Proje\B211200041_OguzhanYavas_NDP\SancarRocket\SancarRocket\obj\Debug\Sancar.csproj.CopyComplete
+C:\Users\oguzh\OneDrive\Desktop\NDP Proje\B211200041_OguzhanYavas_NDP\SancarRocket\SancarRocket\obj\Debug\SancarRoket.exe
+C:\Users\oguzh\OneDrive\Desktop\NDP Proje\B211200041_OguzhanYavas_NDP\SancarRocket\SancarRocket\obj\Debug\SancarRoket.pdb
